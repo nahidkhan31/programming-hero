@@ -1,0 +1,33 @@
+#jk{
+    background-color: goldenrod;
+    text-align: center;
+}
+*{
+    background-color: aquamarine;
+}
+#nd{
+    font-size:large;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 0%;
+    margin-left: 20px;
+    
+}
+#omg{
+    width:200px; height:200px;
+    /*border: 20px solid tomato*/
+    border-radius: 20px;
+ }
+ #kn{
+    font-style: italic;
+    font-size: medium;
+    color: black;
+    margin: 0%;
+    margin-left: 70px;
+ }
+ .hy{
+    font-size: medium;
+    margin: 0% 20px 10px;
+    text-align: justify;
+
+ }
